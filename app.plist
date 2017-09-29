@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://www.cxlvyou.com/cpt/CptApp.ipa</string>
+                    <string>http://192.168.10.125:8081/CptApp.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
